@@ -1,4 +1,4 @@
-# CS-525
+# CS-525 Advanced Database Organization
 
 ---
 
